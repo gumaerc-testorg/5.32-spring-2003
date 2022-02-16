@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 28489341-8f68-aaa6-b55b-3c44ee61f931
 ---
@@ -24,7 +26,7 @@ This experiment involves the asymmetric Lewis acid catalyzed Diels-Alder cycloa
 2\. Qualitative Organic Analysis ([PDF]({{< baseurl >}}/resources/qual_03))
 ---------------------------------------------------------------------------
 
-A mixture of an aromatic acid and a neutral compound is provided. After their separation and purification, the two components are identified: the aromatic acid from its melting point (mp) and that of its amide and 1H NMR data; the neutral compound from its mp, IR, UV, NMR (1H, 13C, DEPT, gCOSY, HETCOR (HMQC), and GC-MS.
+A mixture of an aromatic acid and a neutral compound is provided. After their separation and purification, the two components are identified: the aromatic acid from its melting point (mp) and that of its amide and {{< sup "1" >}}H NMR data; the neutral compound from its mp, IR, UV, NMR ({{< sup "1" >}}H, {{< sup "13" >}}C, DEPT, gCOSY, HETCOR (HMQC), and GC-MS.
 
 3\. Biochemistry ([PDF]({{< baseurl >}}/resources/bio_03))
 ----------------------------------------------------------

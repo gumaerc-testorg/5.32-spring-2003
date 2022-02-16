@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: '[Experiment 3: Biochemistry]'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-32-intermediate-chemical-experimentation-spring-2003/d847a78dab1bb1225c7a13742341d824_Bio_03.pdf
+file: /media/courses/5-32-intermediate-chemical-experimentation-spring-2003/d847a78dab1bb1225c7a13742341d824_Bio_03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: Bio_03.pdf
 uid: d847a78d-ab1b-b122-5c7a-13742341d824
