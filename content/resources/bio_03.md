@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: b6c351da-484d-4fda-8914-148c42511763
 resourcetype: Document
 title: Bio_03.pdf
 uid: d847a78d-ab1b-b122-5c7a-13742341d824

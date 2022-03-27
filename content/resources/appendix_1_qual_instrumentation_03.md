@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: b6c351da-484d-4fda-8914-148c42511763
 resourcetype: Document
 title: Appendix_1_Qual_Instrumentation_03.pdf
 uid: b0475780-8d7f-f50f-8745-878714c8db7f

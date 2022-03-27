@@ -22,6 +22,6 @@ Appendix 3: Flash\_Chromatography ([PDF]({{< baseurl >}}/resources/appendix_3_fl
 Appendix 1: Instrumentation ([PDF)]({{< baseurl >}}/resources/appendix_1_qual_instrumentation_03)
 
 **Biochemistry** ([PDF]({{< baseurl >}}/resources/bio_03))  
-pdb files: [1GSO.pdb](/courses/chemistry/5-32-intermediate-chemical-experimentation-spring-2003/labs/1gso.pdb), [1GSOsubs.pdb](/courses/chemistry/5-32-intermediate-chemical-experimentation-spring-2003/labs/1gsosubs.pdb), [1IOV.pdb](/courses/chemistry/5-32-intermediate-chemical-experimentation-spring-2003/labs/1IOV.pdb)  
+pdb files: [1GSO.pdb]({{< baseurl >}}/resources/1gso), [1GSOsubs.pdb]({{< baseurl >}}/resources/1gsosubs), [1IOV.pdb]({{< baseurl >}}/resources/1iov)  
 [Rasmol](http://www.umass.edu/microbio/rasmol/)  
 [Protein Explorer Front Door](http://www.umass.edu/molvis/pipe/protexpl/frntdoor.htm)

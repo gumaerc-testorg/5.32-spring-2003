@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: b6c351da-484d-4fda-8914-148c42511763
 resourcetype: Document
 title: Diels_Alder_03.pdf
 uid: dbba0f2c-18dc-04f4-af53-e86620fec1c9

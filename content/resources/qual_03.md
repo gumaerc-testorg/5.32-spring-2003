@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: b6c351da-484d-4fda-8914-148c42511763
 resourcetype: Document
 title: Qual_03.pdf
 uid: 62fa55e3-8b56-1e92-8ad2-9d3988bc877b

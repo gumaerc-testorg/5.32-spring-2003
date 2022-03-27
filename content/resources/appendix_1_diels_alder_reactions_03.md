@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: b6c351da-484d-4fda-8914-148c42511763
 resourcetype: Document
 title: Appendix_1_Diels_Alder_Reactions_03.pdf
 uid: 29fff5e2-d4ad-c6d7-90aa-82c7590047eb
