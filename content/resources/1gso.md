@@ -3,7 +3,7 @@ content_type: resource
 description: '1GSO
 
   .pdb file that opens in the Rasmol software program'
-file: /media/courses/5-32-intermediate-chemical-experimentation-spring-2003/ed9fa44f5bdc2baadc32cc488b5faae7_1gso.pdb
+file: /courses/5-32-intermediate-chemical-experimentation-spring-2003/ed9fa44f5bdc2baadc32cc488b5faae7_1gso.pdb
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -15,3 +15,6 @@ resourcetype: Other
 title: 1gso.pdb
 uid: ed9fa44f-5bdc-2baa-dc32-cc488b5faae7
 ---
+1GSO
+.pdb file that opens in the Rasmol software program
+

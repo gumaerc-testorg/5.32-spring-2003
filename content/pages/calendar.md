@@ -1,9 +1,19 @@
 ---
 content_type: page
+description: This section provides the laboratory schedule for the course. In this
+  course, students were divided into three groups for the laboratory assignments.
+  Each group worked on a different laboratory and, upon completion, rotated assignments
+  among groups. As a result, no two groups ever worked on the same lab at the same
+  time. The first schedule in this section shows this rotation format. The second
+  schedule shows how the lectures proceeded, given the rotation format.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 9dc38ac9-e6de-c37f-9885-cfa3366e3429
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 In this course, students are divided into three groups for the laboratory experiments. Each group works on a different experiment and, upon completion, assignments are rotated among groups. As a result, no two groups ever work on the same lab at the same time. The first schedule in this section shows this rotation format. The second schedule shows the laboratory lectures, which are an essential part of 5.32. Students are potentially prevented from doing some of the experiments if the instructors believe that the students are unprepared because of absence from a lecture pertinent to that experiment.

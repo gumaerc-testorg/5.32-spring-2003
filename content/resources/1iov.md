@@ -3,7 +3,7 @@ content_type: resource
 description: '1IOV
 
   .pdb file that opens in the Rasmol software program'
-file: /media/courses/5-32-intermediate-chemical-experimentation-spring-2003/4d01995b4ab3378fe77b2a7c2f51e186_1IOV.pdb
+file: /courses/5-32-intermediate-chemical-experimentation-spring-2003/4d01995b4ab3378fe77b2a7c2f51e186_1IOV.pdb
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -15,3 +15,6 @@ resourcetype: Other
 title: 1IOV.pdb
 uid: 4d01995b-4ab3-378f-e77b-2a7c2f51e186
 ---
+1IOV
+.pdb file that opens in the Rasmol software program
+

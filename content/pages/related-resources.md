@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: This section provides external links to related resources for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 05486687-6fc6-3b0e-baf9-8efed8f9a75a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Chemistry Links
