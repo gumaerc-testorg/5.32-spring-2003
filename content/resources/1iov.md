@@ -7,6 +7,7 @@ file: /courses/5-32-intermediate-chemical-experimentation-spring-2003/4d01995b4a
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 4d01995b-4ab3-378f-e77b-2a7c2f51e186
 ---
 1IOV
 .pdb file that opens in the Rasmol software program
-

@@ -7,6 +7,7 @@ file: /courses/5-32-intermediate-chemical-experimentation-spring-2003/fd91d65996
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: fd91d659-9611-5e59-4a8e-4c524fcf734c
 ---
 1GSO Subs
 .pdb file that opens in the Rasmol software program
-

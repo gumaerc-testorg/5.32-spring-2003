@@ -6,6 +6,7 @@ file: /courses/5-32-intermediate-chemical-experimentation-spring-2003/d47e6ad88f
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Appendix 2: Evaluation of ee by chiral GC and by 1H NMR with the chiral shift reagent Eu(hfc)3.
-

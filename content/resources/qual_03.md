@@ -5,6 +5,7 @@ file: /courses/5-32-intermediate-chemical-experimentation-spring-2003/62fa55e38b
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 EXPERIMENT #2: QUALITATIVE ORGANIC ANALYSIS
-
