@@ -3,10 +3,11 @@ content_type: resource
 description: '1GSO Subs
 
   .pdb file that opens in the Rasmol software program'
-file: /courses/5-32-intermediate-chemical-experimentation-spring-2003/fd91d65996115e594a8e4c524fcf734c_1gsosubs.pdb
+file: /ol-ocw-studio-app/courses/5-32-intermediate-chemical-experimentation-spring-2003/fd91d65996115e594a8e4c524fcf734c_1gsosubs.pdb
+file_size: 315235
 file_type: text/plain
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

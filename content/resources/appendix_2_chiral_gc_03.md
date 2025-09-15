@@ -2,10 +2,11 @@
 content_type: resource
 description: 'Appendix 2: Evaluation of ee by chiral GC and by 1H NMR with the chiral
   shift reagent Eu(hfc)3.'
-file: /courses/5-32-intermediate-chemical-experimentation-spring-2003/d47e6ad88f54dce3bb11bdc25c8cb7ea_Appendix_2_Chiral_GC_03.pdf
+file: /ol-ocw-studio-app/courses/5-32-intermediate-chemical-experimentation-spring-2003/d47e6ad88f54dce3bb11bdc25c8cb7ea_Appendix_2_Chiral_GC_03.pdf
+file_size: 276423
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

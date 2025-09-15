@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: 'Appendix 3: Flash Chromatography1 (FC).'
-file: /courses/5-32-intermediate-chemical-experimentation-spring-2003/19df9eecd91291a4cfbabfce028d3bd6_Appendix_3_Flash_Cromatography_03.pdf
+file: /ol-ocw-studio-app/courses/5-32-intermediate-chemical-experimentation-spring-2003/19df9eecd91291a4cfbabfce028d3bd6_Appendix_3_Flash_Cromatography_03.pdf
+file_size: 117456
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

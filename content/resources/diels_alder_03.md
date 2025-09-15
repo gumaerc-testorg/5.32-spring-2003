@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: 'Experiment #1: ASYMMETRIC CATALYSIS OF DIELS-ALDER REACTIONS'
-file: /courses/5-32-intermediate-chemical-experimentation-spring-2003/dbba0f2c18dc04f4af53e86620fec1c9_Diels_Alder_03.pdf
+file: /ol-ocw-studio-app/courses/5-32-intermediate-chemical-experimentation-spring-2003/dbba0f2c18dc04f4af53e86620fec1c9_Diels_Alder_03.pdf
+file_size: 549081
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

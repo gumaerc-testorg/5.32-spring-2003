@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: 'EXPERIMENT #2: QUALITATIVE ORGANIC ANALYSIS'
-file: /courses/5-32-intermediate-chemical-experimentation-spring-2003/62fa55e38b561e928ad29d3988bc877b_Qual_03.pdf
+file: /ol-ocw-studio-app/courses/5-32-intermediate-chemical-experimentation-spring-2003/62fa55e38b561e928ad29d3988bc877b_Qual_03.pdf
+file_size: 4216449
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

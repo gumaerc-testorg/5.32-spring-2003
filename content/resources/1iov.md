@@ -3,10 +3,11 @@ content_type: resource
 description: '1IOV
 
   .pdb file that opens in the Rasmol software program'
-file: /courses/5-32-intermediate-chemical-experimentation-spring-2003/4d01995b4ab3378fe77b2a7c2f51e186_1IOV.pdb
+file: /ol-ocw-studio-app/courses/5-32-intermediate-chemical-experimentation-spring-2003/4d01995b4ab3378fe77b2a7c2f51e186_1IOV.pdb
+file_size: 248508
 file_type: text/plain
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

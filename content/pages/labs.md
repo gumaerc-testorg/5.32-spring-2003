@@ -2,7 +2,7 @@
 content_type: page
 description: This section provides documents related to the course labs.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: b6c351da-484d-4fda-8914-148c42511763
