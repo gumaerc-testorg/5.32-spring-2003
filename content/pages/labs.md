@@ -28,5 +28,5 @@ Appendix 1: Instrumentation ({{% resource_link b0475780-8d7f-f50f-8745-878714c8
 
 **Biochemistry** ({{% resource_link d847a78d-ab1b-b122-5c7a-13742341d824 "PDF" %}})  
 pdb files: {{% resource_link ed9fa44f-5bdc-2baa-dc32-cc488b5faae7 "1GSO.pdb" %}}, {{% resource_link fd91d659-9611-5e59-4a8e-4c524fcf734c "1GSOsubs.pdb" %}}, {{% resource_link 4d01995b-4ab3-378f-e77b-2a7c2f51e186 "1IOV.pdb" %}}  
-[Rasmol](http://www.umass.edu/microbio/rasmol/)  
-[Protein Explorer Front Door](http://www.umass.edu/molvis/pipe/protexpl/frntdoor.htm)
+{{% resource_link "713d86bb-a9c6-4b59-ab12-0de8f95ba117" "Rasmol" %}}  
+{{% resource_link "e2713285-9e99-4c88-b0ed-06908d1ae829" "Protein Explorer Front Door" %}}
